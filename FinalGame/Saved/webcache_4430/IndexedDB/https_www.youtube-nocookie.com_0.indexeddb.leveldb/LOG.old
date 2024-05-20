@@ -1,0 +1,6 @@
+2024/05/19-18:28:29.981 6c08 Creating DB C:/Users/abbey/OneDrive/Documents/Class Stuff/FinalGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/05/19-18:28:29.996 6c08 Reusing MANIFEST C:/Users/abbey/OneDrive/Documents/Class Stuff/FinalGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/19-18:29:43.562 7a34 Level-0 table #5: started
+2024/05/19-18:29:43.575 7a34 Level-0 table #5: 1167 bytes OK
+2024/05/19-18:29:43.577 7a34 Delete type=0 #3
+2024/05/19-18:29:43.578 7a34 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
